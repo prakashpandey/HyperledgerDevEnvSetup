@@ -5,7 +5,7 @@ cd /root
 mkdir go
 cd go
 
-echo "=====>Downloading goland"
+echo "=====>Downloading golang 1.10.2"
 wget https://dl.google.com/go/go1.10.2.linux-amd64.tar.gz
 
 GOROOT=/usr/local/go
