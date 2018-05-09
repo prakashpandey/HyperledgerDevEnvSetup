@@ -9,7 +9,7 @@ echo "=====>Downloading goland"
 wget https://dl.google.com/go/go1.10.2.linux-amd64.tar.gz
 
 GOROOT=/usr/local/go
-echo"Installing go at /usr/local/go"
+echo "Installing go at /usr/local/go"
 tar -C /usr/local -xzf /root/go/go1.10.2.linux-amd64.tar.gz
 
 echo "Setting GOROOT in /etc/profile"
