@@ -2,14 +2,14 @@
 
 Automated scripts to setup hyperledger developement environment 
 
-### Install docker and docker-compose
-`./docker.sh`
-
 ### Clone HyperledgerDevEnvSetup
 
 `git clone https://github.com/prakashpandey/HyperledgerDevEnvSetup.git`
 
 `cd HyperledgerDevEnvSetup`
+
+### Install docker and docker-compose
+`./docker.sh`
 
 ### Install go
 
