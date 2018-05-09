@@ -18,12 +18,12 @@ Automated scripts to setup hyperledger developement environment
 
 ### hyperledger-sample 
 
-Go to the directory where you want to download and run 
+Go to the directory where you want to download hyperledger-samples and run 
 
-`download_samples.sh`
+`./download_samples.sh`
 
 ### Start start-first-network
 
 Go to `fabric-samples` and run
 
-`./start-first-network.sh
+`./start-first-network.sh`
