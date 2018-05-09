@@ -16,7 +16,9 @@ Automated scripts to setup hyperledger developement environment
 
 `./hyperledger-bootstrap.sh`
 
-### Go to the directory where you want to download hyperledger-sample and run 
+### hyperledger-sample 
+
+Go to the directory where you want to download and run 
 
 `download_samples.sh`
 
